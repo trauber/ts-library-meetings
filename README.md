@@ -1,3 +1,3 @@
 # ts-library-meetings
 
-Public repository for notes.
+Public repository for notes/minutes.
