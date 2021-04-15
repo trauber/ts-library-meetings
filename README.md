@@ -2,4 +2,5 @@
 
 Public repository for notes/minutes. 
 
-<!-- Use smurf.py to take notes. Set syntax off in vim. -->
+
+- [April 14, 2021](meeting-2021-04-14.md)
