@@ -18,7 +18,7 @@ account for some smaller sections of small media items.
 Most of the shelves are full. The more over 75% capacity the shelves are
 the more difficult it becomes to maintain a collection &mdash; allowing
 for budgeted collection development (including changes in media), gift
-processing, weeding, and shifting.
+processing, weeding, shifting, and reshelving returns.
 
 With the library's current configuration, about 860 books will need to
 get weeded from the shelves to make the collection manageable.
