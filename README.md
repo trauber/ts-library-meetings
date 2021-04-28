@@ -11,4 +11,5 @@ Public repository for notes/minutes.
 ## Other Materials
 
 
-- [Rich Traube's April 18 Pictures and Notes](rich-ts-pictures-2021-04-18.md)
+- [Rich Traube's April 18 TS Library Pictures and Notes](rich-ts-pictures-2021-04-18.md)
+- [Gail Lipsky's April TBS Pictures](gail-tbs-pictures-2021-04.md)
