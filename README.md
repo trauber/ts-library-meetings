@@ -18,4 +18,4 @@ All of this material is publicly avaiblable at [https://github.com/trauber/ts-li
 - [Survey](survey.md)
 - [Room Diagram](room-diagram.md)
 - [Pictures](pics) - Just links to them; no thumbnails. 
-- [Desks][desks.md)
+- [Desks](desks.md)
