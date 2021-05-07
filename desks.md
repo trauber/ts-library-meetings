@@ -1,4 +1,0 @@
-- [Hertz Furniture - Library L-Desk Model #CLF-204L](https://www.hertzfurniture.com/circulation-desks--library-l-desk--12057--mo.html)
-- [Glacier Library Circulation Desk Shell 60”x30"x29” Model #LCD-6029](https://www.hertzfurniture.com/circulation-desks--glacier-library-circulation-desk-shell--2405--mo.html) wrong picture?!
-- [Glacier Library Circulation Desk Shell 36”x30"x29”H Model #LCD-3629](https://www.hertzfurniture.com/circulation-desks--glacier-library-circulation-desk-shell--2402--mo.html)
-- [ACP Direct - Teacher Desks](https://www.acpdirect.com/Teacher-Desks-C467.aspx)

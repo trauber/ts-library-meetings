@@ -1,0 +1,90 @@
+
+@startgantt
+
+!$weeding_color="#FF00FF"
+!$remodel_color="#ADFF2F"
+!$survey_color="#C2F0FF"
+!$system_color="#FFAA00"
+printscale daily
+
+Project starts 2021-05-03
+
+
+-- Survey Team --
+
+[Survey Design]  lasts 4 days
+[Send Survey] lasts 1 day
+[Send Survey] starts at [Survey Design]'s end
+[Receive Results] starts at [Send Survey]'s end
+[Receive Results] lasts 7 days
+'note bottom
+'    This will be anote as will this and this and this
+'end note
+[Analyze Survey] lasts 7 days
+[Analyze Survey] starts at [Receive Results]'s end
+[Plan focus group] lasts 3 days
+[Plan focus group] starts 2021-05-13
+
+
+
+[Survey Design] is colored in $survey_color
+[Send Survey] is colored in $survey_color
+[Receive Results] is colored in $survey_color
+[Analyze Survey] is colored in $survey_color
+[Plan focus group] is colored in $survey_color
+
+
+-- Weeding Team --
+
+[Presort Liturgical Material] lasts 6 days
+[Presort Liturgical Material] starts 2021-05-13
+[Consult with Rabbi Perice] lasts 3 days
+[Weeding] lasts 7 days
+[Consult with Rabbi Perice] starts at [Presort Liturgical Material]'s end
+[Refine weeding criteria] lasts 6 days
+[Refine weeding criteria] starts 2021-05-13
+[Weeding] starts at [Consult with Rabbi Perice]'s end
+
+
+[Refine weeding criteria] is colored in $weeding_color
+[Presort Liturgical Material] is colored in $weeding_color
+[Consult with Rabbi Perice] is colored in $weeding_color
+[Weeding]  is colored in $weeding_color
+[Consult with Rabbi Perice] is colored in $weeding_color
+
+-- Remodel Team --
+
+
+[Carpeting] lasts 7 days
+[Carpeting] starts at [Weeding]'s end
+[Carpeting] is colored in $remodel_color
+
+[Select Desk] lasts 30 days
+[Select Desk] is colored in $remodel_color
+
+[Select Computer Furniture] lasts 30 days
+[Select Computer Furniture] is colored in $remodel_color
+
+[Purchase and Receive Desk] lasts 7 days
+[Purchase and Receive Desk] starts after [Select Desk]'s end
+[Purchase and Receive Desk] is colored in $remodel_color
+
+
+[Purchase and Computer Furniture] lasts 7 days
+[Purchase and Computer Furniture] starts after [Select Computer Furniture]'s end
+[Purchase and Computer Furniture] is colored in $remodel_color
+
+
+-- System Team --
+
+[LibraryThing scanner testing] lasts 14 days
+[LibraryThing scanner testing] lasts 14 days
+[LibraryThing scanner testing] is colored in $system_color
+
+'[testing] lasts 7 days
+
+'[testing] starts 2021-07-01
+
+'[testing] is colored in #FFAA00
+
+@endgantt
