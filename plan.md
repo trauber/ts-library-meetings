@@ -13,28 +13,29 @@
 
 - Plan Focus Group (Jo)_
 - Survey
-    - design (Marcia, Jo, Rich, Aaron)
 
-        Marcia provided the original list of questions, to which one question.  A section on hours was added, replacing Marcia's original hours question.
+  - design (Marcia, Jo, Rich, Aaron)
 
-    - send (Aaron)
+    Marcia provided the original list of questions, to which one question.  A section on hours was added, replacing Marcia's original hours question.
 
-        Rose and Aaron plan to send a link to the survey in the May 7th Happenings.
+  - send (Aaron)
 
-        Should we make provisions for snail mail?
+    Rose and Aaron plan to send a link to the survey in the May 7th Happenings.
 
-    - analyze (Jo?, Rich, Marcia?, Aaron?)
+    Should we make provisions for snail mail?
+
+  - analyze (Jo?, Rich, Marcia?, Aaron?)
 
 ## Weeding Activities
 
 - Refine weeding criteria (Rich, Shelley?)
-    - number of checkouts (from charged cards)
-    - condition
-    - age
-    - relevance
+  - number of checkouts (from charged cards)
+  - condition
+  - age
+  - relevance
 - Presort Liturgical Material (Jo, Marcia?)
-    - set aside on truck
-    - if not enough trucks available identify with color label dots
+  - set aside on truck
+  - if not enough trucks available identify with color label dots
 - Consult with Rabbi Perice (Jo, Marcia)
 
 

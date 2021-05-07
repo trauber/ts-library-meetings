@@ -27,5 +27,5 @@ browser to open the corresponding file on this site.
 
 - [Rich Traube's April 18 TS Library Pictures and Notes](rich-ts-pictures-2021-04-18.md)
 - [Gail Lipsky's April TBS Pictures](gail-tbs-pictures-2021-04.md)
-- [Plan - draft](plan.md) 
+- [Plan - draft](plan.md) [MS-Word](plan.docx)
 - [Pictures](pics) - Just links to them; no thumbnails. 
