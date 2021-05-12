@@ -61,28 +61,32 @@ Desks:
 
 ![survey screenshot](pics/survey-screenshot.png)
 
-### List of People for Project
 
-- Analyze Survey: Nobody
+
+
+## List of People for Project
+
+- Analyze Survey: [ ]
 - Carpeting: John Stevens
 - Consult with Rabbi Perice: Jo, Marcia
 - Plan Focus Group: Jo
 - Presort Liturgical Material: Jo
-- Refine Weeding Criteria: Rich
+- Refine Weeding Criteria: Rich, Janet, Shelley
 - Send Survey: Rich, Aaron
 - Survey Design: Jo, Aaron, Rich, Marcia
 - Weeding: Jo, Marcia, Gail, Janet
 
-### List of Projects for Person
+## List of Projects for Person
 
 - Aaron: Send Survey, Survey Design
 - Gail: Weeding
-- Janet: Weeding
+- Janet: Refine Weeding Criteria, Weeding
 - Jo: Survey Design, Weeding, Consult with Rabbi Perice, Plan Focus Group, Presort Liturgical Material
 - John Stevens: Carpeting
 - Marcia: Weeding, Survey Design, Consult with Rabbi Perice
 - Rich: Refine Weeding Criteria, Send Survey, Survey Design
-- Nobody: Analyze Survey
+- Shelley: Refine Weeding Criteria
+- [ ]: Analyze Survey
 
 
 
