@@ -16,14 +16,16 @@ Project starts 2021-05-03
 [Send Survey] lasts 1 day
 [Send Survey] starts at [Survey Design]'s end
 [Receive Results] starts at [Send Survey]'s end
-[Receive Results] lasts 7 days
-'note bottom
-'    This will be anote as will this and this and this
-'end note
+[Receive Results] lasts 21 days
+note bottom
+    9 responses have been received as of May 18
+    and a separate iContact mail has not been
+    sent
+end note
 [Analyze Survey] lasts 7 days
 [Analyze Survey] starts at [Receive Results]'s end
 [Plan focus group] lasts 3 days
-[Plan focus group] starts 2021-05-13
+[Plan focus group] starts 2021-05-22
 
 
 
@@ -37,13 +39,30 @@ Project starts 2021-05-03
 -- Weeding Team --
 
 [Presort Liturgical Material] lasts 6 days
-[Presort Liturgical Material] starts 2021-05-13
+[Presort Liturgical Material] starts 2021-05-20
 [Consult with Rabbi Perice] lasts 3 days
 [Weeding] lasts 7 days
+note bottom
+For catalogued books (have Dewey numbers)
+  • Save charge card
+  • Note if there are a lot or recent charges on card
+  • Create card if one doesn't exist
+For uncatalogued books
+  • Keep count
+
+Target count: 860
+end note
+[Weeding done] happens 2021-06-01
 [Consult with Rabbi Perice] starts at [Presort Liturgical Material]'s end
-[Refine weeding criteria] lasts 6 days
-[Refine weeding criteria] starts 2021-05-13
-[Weeding] starts at [Consult with Rabbi Perice]'s end
+[Refine weeding criteria] lasts 1 day
+[Refine weeding criteria] starts 2021-05-12
+note bottom
+• 2000 soft cutoff for general literature
+• condition
+• eliminate duplicates
+• relevance
+end note
+[Weeding] starts at [Presort Liturgical Material]'s end
 
 
 [Refine weeding criteria] is colored in $weeding_color
@@ -55,14 +74,30 @@ Project starts 2021-05-03
 -- Remodel Team --
 
 
+[Plot Space] starts 2021-05-21
+[Plot Space] lasts 1 day
+[Plot Space] is colored in $remodel_color
+
+[Source Desk] lasts 14 days
+[Source Desk] starts at [Plot Space]'s end
+[Source Desk] is colored in $remodel_color
+
+
+
+[Source Computer Furniture] lasts 14 days
+[Source Computer Furniture] starts at [Plot Space]'s end
+[Source Computer Furniture] is colored in $remodel_color
+
 [Carpeting] lasts 7 days
 [Carpeting] starts at [Weeding]'s end
 [Carpeting] is colored in $remodel_color
 
 [Select Desk] lasts 30 days
+[Select Desk] starts at [Analyze Survey]'s end
 [Select Desk] is colored in $remodel_color
 
 [Select Computer Furniture] lasts 30 days
+[Select Computer Furniture] starts at [Analyze Survey]'s end
 [Select Computer Furniture] is colored in $remodel_color
 
 [Purchase and Receive Desk] lasts 7 days

@@ -33,13 +33,30 @@
   - condition
   - age
   - relevance
+  - items to replace
+  - eliminate duplicates
+- Weeding
+  - For catalogued books (have Dewey numbers)
+    - save card
+    - check card for frequent or recent charges
+    - create card if one doesn't exist
+      - author
+      - title
 - Presort Liturgical Material (Jo, Marcia?)
-  - set aside on truck
-  - if not enough trucks available identify with color label dots
+  - two categories to go into bins: keep, don't keep
 - Consult with Rabbi Perice (Jo, Marcia)
 
 
+
+
+
 ## Redesign Activities
+
+
+### Plot Space
+
+
+### Select Furniture
 
 Desks:
 
@@ -48,7 +65,7 @@ Desks:
 - [Glacier Library Circulation Desk Shell 36”x30"x29”H Model #LCD-3629](https://www.hertzfurniture.com/circulation-desks--glacier-library-circulation-desk-shell--2402--mo.html)
 - [ACP Direct - Teacher Desks](https://www.acpdirect.com/Teacher-Desks-C467.aspx)
 
-- Carpeting (John S.)
+- Reflooring (carpeting, linoleum)
     - Happens after weeding.
 
 ## System Activities
@@ -64,7 +81,7 @@ Desks:
 
 
 
-## List of People for Project
+### List of People for Project
 
 - Analyze Survey: [ ]
 - Carpeting: John Stevens
@@ -76,7 +93,7 @@ Desks:
 - Survey Design: Jo, Aaron, Rich, Marcia
 - Weeding: Jo, Marcia, Gail, Janet
 
-## List of Projects for Person
+### List of Projects for Person
 
 - Aaron: Send Survey, Survey Design
 - Gail: Weeding
